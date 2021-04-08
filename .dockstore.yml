@@ -5,4 +5,4 @@ workflows:
      primaryDescriptorPath: /sha256.wdl
      filters:
          branches:
-             - master
+             - main
